@@ -6,6 +6,8 @@ This project is a clone of [Trello](https://trello.com/)
 
 deploy: [https://rs-trello-clone.herokuapp.com/](https://rs-trello-clone.herokuapp.com/)
 
+[video review](https://youtu.be/Z_AucXb1Lj4)
+
 The root project is just a wrapper around two completely independent apps (client and server). You can do your work form the root or jump straight to the project you are interested in
 
 The App was created in a team. Team contains for 3 people as part of the RSScool's cours, where I am team-lead.
